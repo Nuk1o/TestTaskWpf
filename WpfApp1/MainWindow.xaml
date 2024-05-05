@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="TestApp" Height="800" Width="800">
-    <Grid x:Name="grid1">
-        <Button x:Name="button1"  Width="100" Height="30" Content="Кнопка" />
+    <Grid>
     </Grid>
 </Window>
